@@ -1,5 +1,7 @@
 # TFT_eSPI
 
+*** THIS IS A MODIFIED VERSION OF THE LIBRARY AT https://github.com/lewisxhe/TFT_eSPI.git.  Changes were made to better support the esp32 TTGO T_Display integrated module found here https://www.aliexpress.com/item/4000061325129.html?spm=a2g0s.9042311.0.0.43294c4dXk3ihu ***
+
 An Arduino IDE compatible graphics and fonts library for ESP8266 and ESP32 processors with drivers for ILI9341, ILI9163, ST7735, S6D02A1, ILI9481, ILI9486, ILI9488, HX8357D and ST7789 based TFT displays that support SPI. The library can be loaded using the Arduino IDE's Library Manager.
 
 8 bit parallel interface TFTs  (e.g. UNO format mcufriend shields) can used with an ESP32.
